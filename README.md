@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/z2h.jpeg" alt="Azure Advanced Projects Banner">
+<img src="./assets/azureproject.png" alt="Azure Advanced Projects Banner">
 
 <br><br>
 
